@@ -2,3 +2,10 @@ node_modules/
 dist/
 /npm-debug.log
 yarn-error.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+*.egg-info/
